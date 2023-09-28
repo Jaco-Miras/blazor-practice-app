@@ -20,6 +20,18 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[F:/Codes/practice/sample/sample/NewFolder/ArchivedPosition.razor]
+build_metadata.AdditionalFiles.TargetPath = TmV3Rm9sZGVyXEFyY2hpdmVkUG9zaXRpb24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Codes/practice/sample/sample/NewFolder/Component.razor]
+build_metadata.AdditionalFiles.TargetPath = TmV3Rm9sZGVyXENvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Codes/practice/sample/sample/NewFolder/vacantposition.razor]
+build_metadata.AdditionalFiles.TargetPath = TmV3Rm9sZGVyXHZhY2FudHBvc2l0aW9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [F:/Codes/practice/sample/sample/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
